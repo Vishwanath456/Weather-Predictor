@@ -8,7 +8,7 @@ A simple Streamlit web app that predicts tomorrow's weather based on the past 3 
 - Cloud Cover (Clear/Partly Cloudy/Cloudy)
 
 ## Demo
-![localhost_8502-weather_predictor_app-fpscreenshot](https://github.com/user-attachments/assets/31d35265-fe36-45d7-88c5-aa728f1f952a)
+<img width="702" alt="Screenshot 2025-06-01 at 10 26 12 PM" src="https://github.com/user-attachments/assets/fe758fc0-6672-4d57-89f7-4342c4c7ef84" />
 <img width="777" alt="Screenshot 2025-06-01 at 10 22 42 PM" src="https://github.com/user-attachments/assets/3fcf4bcf-7064-4ff7-afea-fd1f899b0890" />
 <img width="781" alt="Screenshot 2025-06-01 at 10 22 49 PM" src="https://github.com/user-attachments/assets/339f550e-7e53-4a96-b2b7-5467a1642b22" />
 <img width="764" alt="result" src="https://github.com/user-attachments/assets/20223bdb-4c94-4748-8e83-4875fdb61877" />
